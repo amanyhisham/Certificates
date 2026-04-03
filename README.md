@@ -1,9 +1,20 @@
-# My Certificates
+# 🎓 My Certificates & Academic Records
 
-Welcome! 🎓
+Welcome! 👋
 
-This repository contains **all my certificates** from various courses and training programs.
+This repository contains my **academic certificates and professional training achievements**.
 
-📂 All certificates are organized in the folders inside this repository.
+## 📂 Contents
+- 🎓 Graduation Certificate
+- 📊 Academic Transcript (4 Years)
+- 💻 Technical Training Certificates (e.g., ITI, DEPI)
+- 🏆 Other Courses & Achievements
+
+All files are organized into folders for easy navigation.
+
+## 📌 Note
+Some sensitive personal information may be hidden for privacy purposes.
+
+---
 
 Thank you for visiting! 🚀
