@@ -13,7 +13,7 @@ This repository contains my **academic certificates and professional training ac
 All files are organized into folders for easy navigation.
 
 ## 📌 Note
-Some sensitive personal information may be hidden for privacy purposes.
+Some sensitive personal information may be hidden for privacy purposes..
 
 ---
 
