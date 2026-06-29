@@ -17,4 +17,4 @@ Some sensitive personal information may be hidden for privacy purposes..
 
 ---
 
-Thank you for visiting! 🚀
+Thank you for visiting!. 🚀
